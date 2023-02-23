@@ -1,0 +1,24 @@
+{
+    "env": {
+      "mocha": true,
+      "es6": true,
+      "commonjs": true,
+      "browser": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 2020,
+      "sourceType": "module",
+      "ecmaFeatures": {
+        "jsx": true,
+        "modules": true,
+        "experimentalObjectRestSpread": true
+      }
+    },
+    "plugins": [
+      "prettier"
+    ],
+    "rules": {
+      "no-underscore-dangle": "off",
+      "class-methods-use-this": "off"
+    }
+  }
