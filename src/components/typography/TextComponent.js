@@ -15,7 +15,7 @@ const body = (theme) => `
 
 const hint = (theme) => `
     font-size: ${theme.fontSizes.body};
-    color: ${theme.colors.text.navy};
+    color: #153f64;
 
 `;
 

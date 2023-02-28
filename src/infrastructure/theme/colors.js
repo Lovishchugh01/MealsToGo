@@ -4,6 +4,7 @@ export const colors = {
       primary: "#2182BD",
       secondary: "#5282BD",
       muted: "#C6DAF7",
+      navy: "#153f64",
     },
     ui: {
       navy: "#153f64",
@@ -20,7 +21,8 @@ export const colors = {
       primary: "#FFFFFF",
       secondary: "#F1F1F1",
       navy: "#153f64",
-      aqua:'#3e6e6e'    
+      aqua:'#3e6e6e',
+      aliceblue: '#f0f8ff'    
     },
     text: {
       primary: "#262626",

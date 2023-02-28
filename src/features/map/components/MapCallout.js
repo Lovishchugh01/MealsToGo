@@ -9,7 +9,7 @@ const MyText = styled.Text`
 export const MapCallout = ({ restaurant }) => {
   return (
     <>
-    <CompactRestaurantInfo restaurant={restaurant}/>
+    <CompactRestaurantInfo isMap restaurant={restaurant}/>
     
     </>
   )

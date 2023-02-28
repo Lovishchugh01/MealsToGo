@@ -4,4 +4,5 @@ import {  } from 'react-native-safe-area-view';
 
 export const SafeAreaComponent = styled(SafeAreaView)`
     flex:1;
+    background-color: ${(props) => props.theme.colors.bg.aliceblue}
 `
